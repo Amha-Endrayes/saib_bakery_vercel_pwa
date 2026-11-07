@@ -1,0 +1,10 @@
+{
+  "name": "saib-bakery-adama-pwa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Saib Bakery Management & Speed POS Progressive Web App (Adama, Ethiopia)",
+  "scripts": {
+    "start": "npx serve .",
+    "deploy": "npx vercel --prod"
+  }
+}
